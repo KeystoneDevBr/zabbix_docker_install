@@ -20,3 +20,6 @@ sudo ./zabbix-install.sh
 
 
 ![](./dashboard.png)
+
+
+![](./status.png)
