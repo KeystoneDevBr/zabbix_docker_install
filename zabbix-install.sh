@@ -172,4 +172,4 @@ echo "Acesse: https://$(hostname -I | awk '{print $1}')/"
 echo "User: Admin";
 echo "Password: zabbix";
 
-sleep 15 && docker stats
+#sleep 15 && docker stats
